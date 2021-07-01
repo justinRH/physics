@@ -1,2 +1,2 @@
 # physics
-Some notebook and code to teach-learn physics. 
+Some notebooks and codes to teach-learn physics. 
